@@ -1,0 +1,14 @@
+C:\Users\cubeo\Desktop\Codes\TextToCode\bin\Debug\net8.0\TextToCode.exe
+C:\Users\cubeo\Desktop\Codes\TextToCode\bin\Debug\net8.0\TextToCode.deps.json
+C:\Users\cubeo\Desktop\Codes\TextToCode\bin\Debug\net8.0\TextToCode.runtimeconfig.json
+C:\Users\cubeo\Desktop\Codes\TextToCode\bin\Debug\net8.0\TextToCode.dll
+C:\Users\cubeo\Desktop\Codes\TextToCode\bin\Debug\net8.0\TextToCode.pdb
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\TextToCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\TextToCode.AssemblyInfoInputs.cache
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\TextToCode.AssemblyInfo.cs
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\TextToCode.csproj.CoreCompileInputs.cache
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\TextToCode.dll
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\refint\TextToCode.dll
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\TextToCode.pdb
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\TextToCode.genruntimeconfig.cache
+C:\Users\cubeo\Desktop\Codes\TextToCode\obj\Debug\net8.0\ref\TextToCode.dll
